@@ -1,0 +1,8 @@
+mkbootdisk
+obj
+*.img
+*.o
+log.txt
+*-handin.tar.gz
+.gdbinit
+review-pointers/build/
